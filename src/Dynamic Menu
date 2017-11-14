@@ -1,0 +1,32 @@
+<div class="demo-only" style="height: 12rem;">
+  <button class="slds-button slds-button_icon slds-button_icon-border-filled" title="Show Favorites">
+    <svg class="slds-button__icon" aria-hidden="true">
+      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#favorite" />
+    </svg>
+    <span class="slds-assistive-text">Show Favorites</span>
+  </button>
+  <section class="slds-popover slds-nubbin_top-left slds-dynamic-menu" role="dialog" aria-label="My Favourites" aria-describedby="dialog-body-id-4" style="position: absolute; left: 0px; top: 55px;">
+    <div class="slds-popover__body slds-p-horizontal_none" id="dialog-body-id-4">
+      <div class="slds-p-vertical_x-small slds-p-horizontal_small">
+        <h3 class="slds-text-title_caps slds-m-bottom_x-small" role="presentation">My Favorites</h3>
+        <p>You can favorite any page!</p>
+      </div>
+    </div>
+    <footer class="slds-popover__footer">
+      <ul>
+        <li>
+          <button class="slds-button slds-button_reset slds-p-vertical_xx-small slds-size_1-of-1">
+            <svg class="slds-button__icon slds-button__icon_left" aria-hidden="true">
+              <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#add" />
+            </svg>Favorite this page</button>
+        </li>
+        <li>
+          <button class="slds-button slds-button_reset slds-p-vertical_xx-small slds-size_1-of-1">
+            <svg class="slds-button__icon slds-button__icon_left" aria-hidden="true">
+              <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#edit" />
+            </svg>Edit Favorites</button>
+        </li>
+      </ul>
+    </footer>
+  </section>
+</div>
