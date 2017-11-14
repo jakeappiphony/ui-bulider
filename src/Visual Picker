@@ -1,0 +1,53 @@
+<fieldset class="slds-form-element">
+  <legend class="slds-form-element__legend slds-form-element__label">Select an app</legend>
+  <div class="slds-form-element__control">
+    <div class="slds-visual-picker slds-visual-picker_medium">
+      <input type="radio" id="visual-picker-3" name="options" value="on" />
+      <label for="visual-picker-3">
+        <span class="slds-visual-picker__figure slds-visual-picker__icon slds-align_absolute-center">
+          <span class="slds-is-selected">
+            <span class="slds-icon_container" title="description of icon when needed">
+              <svg class="slds-icon slds-icon_large slds-icon-action-check" aria-hidden="true">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/action-sprite/svg/symbols.svg#check" />
+              </svg>
+              <span class="slds-assistive-text">Provide description of icon</span>
+            </span>
+          </span>
+          <span class="slds-is-not-selected">
+            <span class="slds-icon_container" title="description of icon when needed">
+              <svg class="slds-icon slds-icon-utility-connected_apps slds-icon_large slds-icon-text-default" aria-hidden="true">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#connected_apps" />
+              </svg>
+              <span class="slds-assistive-text">Provide description of icon</span>
+            </span>
+          </span>
+        </span>
+        <span class="slds-visual-picker__body">Connected App</span>
+      </label>
+    </div>
+    <div class="slds-visual-picker slds-visual-picker_medium">
+      <input type="radio" id="visual-picker-4" name="options" value="on" />
+      <label for="visual-picker-4">
+        <span class="slds-visual-picker__figure slds-visual-picker__icon slds-align_absolute-center">
+          <span class="slds-is-selected">
+            <span class="slds-icon_container" title="description of icon when needed">
+              <svg class="slds-icon slds-icon_large slds-icon-action-check" aria-hidden="true">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/action-sprite/svg/symbols.svg#check" />
+              </svg>
+              <span class="slds-assistive-text">Provide description of icon</span>
+            </span>
+          </span>
+          <span class="slds-is-not-selected">
+            <span class="slds-icon_container" title="description of icon when needed">
+              <svg class="slds-icon slds-icon-utility-custom_apps slds-icon_large slds-icon-text-default" aria-hidden="true">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#custom_apps" />
+              </svg>
+              <span class="slds-assistive-text">Provide description of icon</span>
+            </span>
+          </span>
+        </span>
+        <span class="slds-visual-picker__body">Custom App</span>
+      </label>
+    </div>
+  </div>
+</fieldset>

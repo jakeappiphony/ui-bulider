@@ -1,0 +1,19 @@
+<fieldset class="slds-form-element">
+  <legend class="slds-form-element__legend slds-form-element__label">Radio Group Label</legend>
+  <div class="slds-form-element__control">
+    <span class="slds-radio">
+      <input type="radio" id="radio-7" name="options" value="on" />
+      <label class="slds-radio__label" for="radio-7">
+        <span class="slds-radio_faux"></span>
+        <span class="slds-form-element__label">Radio Label One</span>
+      </label>
+    </span>
+    <span class="slds-radio">
+      <input type="radio" id="radio-8" name="options" value="on" />
+      <label class="slds-radio__label" for="radio-8">
+        <span class="slds-radio_faux"></span>
+        <span class="slds-form-element__label">Radio Label Two</span>
+      </label>
+    </span>
+  </div>
+</fieldset>
