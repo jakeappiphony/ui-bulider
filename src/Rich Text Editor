@@ -5,7 +5,7 @@
         <li>
           <button class="slds-button slds-button_icon slds-button_icon-border-filled" tabindex="0" title="Provide description of action">
             <svg class="slds-button__icon" aria-hidden="true">
-              <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#bold" />
+              <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#bold" />
             </svg>
             <span class="slds-assistive-text">Bold</span>
           </button>
@@ -13,7 +13,7 @@
         <li>
           <button class="slds-button slds-button_icon slds-button_icon-border-filled" tabindex="-1" title="Provide description of action">
             <svg class="slds-button__icon" aria-hidden="true">
-              <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#italic" />
+              <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#italic" />
             </svg>
             <span class="slds-assistive-text">Italic</span>
           </button>
@@ -21,7 +21,7 @@
         <li>
           <button class="slds-button slds-button_icon slds-button_icon-border-filled" tabindex="-1" title="Provide description of action">
             <svg class="slds-button__icon" aria-hidden="true">
-              <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#underline" />
+              <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#underline" />
             </svg>
             <span class="slds-assistive-text">Underline</span>
           </button>
@@ -29,7 +29,7 @@
         <li>
           <button class="slds-button slds-button_icon slds-button_icon-border-filled" tabindex="-1" title="Provide description of action">
             <svg class="slds-button__icon" aria-hidden="true">
-              <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#strikethrough" />
+              <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#strikethrough" />
             </svg>
             <span class="slds-assistive-text">Strike Through</span>
           </button>
@@ -39,7 +39,7 @@
         <li>
           <button class="slds-button slds-button_icon slds-button_icon-border-filled" tabindex="-1" title="Provide description of action">
             <svg class="slds-button__icon" aria-hidden="true">
-              <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#richtextbulletedlist" />
+              <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#richtextbulletedlist" />
             </svg>
             <span class="slds-assistive-text">Bulleted List</span>
           </button>
@@ -47,7 +47,7 @@
         <li>
           <button class="slds-button slds-button_icon slds-button_icon-border-filled" tabindex="-1" title="Provide description of action">
             <svg class="slds-button__icon" aria-hidden="true">
-              <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#richtextnumberedlist" />
+              <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#richtextnumberedlist" />
             </svg>
             <span class="slds-assistive-text">Numbered List</span>
           </button>
@@ -55,7 +55,7 @@
         <li>
           <button class="slds-button slds-button_icon slds-button_icon-border-filled" tabindex="-1" title="Provide description of action">
             <svg class="slds-button__icon" aria-hidden="true">
-              <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#richtextindent" />
+              <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#richtextindent" />
             </svg>
             <span class="slds-assistive-text">Indent</span>
           </button>
@@ -63,7 +63,7 @@
         <li>
           <button class="slds-button slds-button_icon slds-button_icon-border-filled" tabindex="-1" title="Provide description of action">
             <svg class="slds-button__icon" aria-hidden="true">
-              <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#richtextoutdent" />
+              <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#richtextoutdent" />
             </svg>
             <span class="slds-assistive-text">Outdent</span>
           </button>
@@ -73,7 +73,7 @@
         <li>
           <button class="slds-button slds-button_icon slds-button_icon-border-filled" tabindex="-1" title="Provide description of action">
             <svg class="slds-button__icon" aria-hidden="true">
-              <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#remove_formatting" />
+              <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#remove_formatting" />
             </svg>
             <span class="slds-assistive-text">Remove Formatting</span>
           </button>

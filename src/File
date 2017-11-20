@@ -9,7 +9,7 @@
           <div class="slds-media__figure slds-line-height_reset">
             <span class="slds-icon_container" title="pdf">
               <svg class="slds-icon slds-icon_x-small" aria-hidden="true">
-                <use href="/_slds/icons/v7.31.0/doctype-sprite/svg/symbols.svg#pdf" />
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/doctype-sprite/svg/symbols.svg#pdf" />
               </svg>
               <span class="slds-assistive-text">pdf</span>
             </span>

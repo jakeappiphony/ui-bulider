@@ -21,7 +21,7 @@
               <button class="slds-button slds-button_neutral slds-grow">Delete</button>
               <button class="slds-button slds-button_icon slds-button_icon-border-filled" aria-haspopup="true" title="More Actions">
                 <svg class="slds-button__icon" aria-hidden="true">
-                  <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#down" />
+                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#down" />
                 </svg>
                 <span class="slds-assistive-text">More Actions</span>
               </button>

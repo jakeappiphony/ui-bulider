@@ -8,7 +8,7 @@
           <span class="slds-is-selected">
             <span class="slds-icon_container" title="description of icon when needed">
               <svg class="slds-icon slds-icon_large slds-icon-action-check" aria-hidden="true">
-                <use href="/_slds/icons/v7.31.0/action-sprite/svg/symbols.svg#check" />
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/action-sprite/svg/symbols.svg#check" />
               </svg>
               <span class="slds-assistive-text">Provide description of icon</span>
             </span>
@@ -16,7 +16,7 @@
           <span class="slds-is-not-selected">
             <span class="slds-icon_container" title="description of icon when needed">
               <svg class="slds-icon slds-icon-utility-connected_apps slds-icon_large slds-icon-text-default" aria-hidden="true">
-                <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#connected_apps" />
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#connected_apps" />
               </svg>
               <span class="slds-assistive-text">Provide description of icon</span>
             </span>
@@ -32,7 +32,7 @@
           <span class="slds-is-selected">
             <span class="slds-icon_container" title="description of icon when needed">
               <svg class="slds-icon slds-icon_large slds-icon-action-check" aria-hidden="true">
-                <use href="/_slds/icons/v7.31.0/action-sprite/svg/symbols.svg#check" />
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/action-sprite/svg/symbols.svg#check" />
               </svg>
               <span class="slds-assistive-text">Provide description of icon</span>
             </span>
@@ -40,7 +40,7 @@
           <span class="slds-is-not-selected">
             <span class="slds-icon_container" title="description of icon when needed">
               <svg class="slds-icon slds-icon-utility-custom_apps slds-icon_large slds-icon-text-default" aria-hidden="true">
-                <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#custom_apps" />
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#custom_apps" />
               </svg>
               <span class="slds-assistive-text">Provide description of icon</span>
             </span>

@@ -8,7 +8,7 @@
             <div class="slds-media__figure slds-timeline__icon">
               <div class="slds-icon_container slds-icon-standard-task" title="task">
                 <svg class="slds-icon slds-icon_small" aria-hidden="true">
-                  <use href="/_slds/icons/v7.31.0/standard-sprite/svg/symbols.svg#task" />
+                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/standard-sprite/svg/symbols.svg#task" />
                 </svg>
               </div>
             </div>
@@ -45,7 +45,7 @@
             <p class="slds-timeline__date">Feb 24</p>
             <button class="slds-button slds-button_icon slds-button_icon-border-filled slds-button_icon-x-small" aria-haspopup="true" title="More Options for Task, Review proposals">
               <svg class="slds-button__icon" aria-hidden="true">
-                <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#down" />
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#down" />
               </svg>
               <span class="slds-assistive-text">More Options for Task, Review proposals</span>
             </button>
@@ -63,7 +63,7 @@
             <div class="slds-media__figure slds-timeline__icon">
               <div class="slds-icon_container slds-icon-standard-event" title="event">
                 <svg class="slds-icon slds-icon_small" aria-hidden="true">
-                  <use href="/_slds/icons/v7.31.0/standard-sprite/svg/symbols.svg#event" />
+                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/standard-sprite/svg/symbols.svg#event" />
                 </svg>
               </div>
             </div>
@@ -92,7 +92,7 @@
             <p class="slds-timeline__date">Feb 24</p>
             <button class="slds-button slds-button_icon slds-button_icon-border-filled slds-button_icon-x-small" aria-haspopup="true" title="More Options for Event, Company One">
               <svg class="slds-button__icon" aria-hidden="true">
-                <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#down" />
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#down" />
               </svg>
               <span class="slds-assistive-text">More Options for Event, Company One</span>
             </button>
@@ -110,7 +110,7 @@
             <div class="slds-media__figure slds-timeline__icon">
               <div class="slds-icon_container slds-icon-standard-log-a-call" title="call">
                 <svg class="slds-icon slds-icon_small" aria-hidden="true">
-                  <use href="/_slds/icons/v7.31.0/standard-sprite/svg/symbols.svg#log_a_call" />
+                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/standard-sprite/svg/symbols.svg#log_a_call" />
                 </svg>
               </div>
             </div>
@@ -135,7 +135,7 @@
             <p class="slds-timeline__date">Feb 24</p>
             <button class="slds-button slds-button_icon slds-button_icon-border-filled slds-button_icon-x-small" aria-haspopup="true" title="More Options for Call, Mobile conversation">
               <svg class="slds-button__icon" aria-hidden="true">
-                <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#down" />
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#down" />
               </svg>
               <span class="slds-assistive-text">More Options for Call, Mobile conversation</span>
             </button>
@@ -153,7 +153,7 @@
             <div class="slds-media__figure slds-timeline__icon">
               <div class="slds-icon_container slds-icon-standard-email" title="email">
                 <svg class="slds-icon slds-icon_small" aria-hidden="true">
-                  <use href="/_slds/icons/v7.31.0/standard-sprite/svg/symbols.svg#email" />
+                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/standard-sprite/svg/symbols.svg#email" />
                 </svg>
               </div>
             </div>
@@ -179,7 +179,7 @@
             <p class="slds-timeline__date">Feb 24</p>
             <button class="slds-button slds-button_icon slds-button_icon-border-filled slds-button_icon-x-small" aria-haspopup="true" title="More Options for Email, Mobile conversation">
               <svg class="slds-button__icon" aria-hidden="true">
-                <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#down" />
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#down" />
               </svg>
               <span class="slds-assistive-text">More Options for Email, Mobile conversation</span>
             </button>

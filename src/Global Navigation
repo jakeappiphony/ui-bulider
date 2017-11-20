@@ -36,7 +36,7 @@
         <div class="slds-context-bar__icon-action slds-p-left_none">
           <button class="slds-button slds-button_icon slds-button_icon slds-context-bar__button" aria-haspopup="true" title="Open menu item submenu">
             <svg class="slds-button__icon" aria-hidden="true">
-              <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#chevrondown" />
+              <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#chevrondown" />
             </svg>
             <span class="slds-assistive-text">Open menu item submenu</span>
           </button>
@@ -47,7 +47,7 @@
               <a href="javascript:void(0);" role="menuitem" tabindex="-1">
                 <span class="slds-truncate" title="[object Object],Main action">
                   <svg class="slds-icon slds-icon_x-small slds-icon-text-default slds-m-right_x-small" aria-hidden="true">
-                    <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#add" />
+                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#add" />
                   </svg>Main action</span>
               </a>
             </li>

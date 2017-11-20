@@ -1,7 +1,7 @@
 <div class="demo-only" style="height: 12rem;">
   <button class="slds-button slds-button_icon slds-button_icon-border-filled" title="Show Favorites">
     <svg class="slds-button__icon" aria-hidden="true">
-      <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#favorite" />
+      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#favorite" />
     </svg>
     <span class="slds-assistive-text">Show Favorites</span>
   </button>
@@ -17,13 +17,13 @@
         <li>
           <button class="slds-button slds-button_reset slds-p-vertical_xx-small slds-size_1-of-1">
             <svg class="slds-button__icon slds-button__icon_left" aria-hidden="true">
-              <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#add" />
+              <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#add" />
             </svg>Favorite this page</button>
         </li>
         <li>
           <button class="slds-button slds-button_reset slds-p-vertical_xx-small slds-size_1-of-1">
             <svg class="slds-button__icon slds-button__icon_left" aria-hidden="true">
-              <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#edit" />
+              <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#edit" />
             </svg>Edit Favorites</button>
         </li>
       </ul>

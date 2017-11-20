@@ -3,7 +3,7 @@
     <div class="slds-form-element__icon slds-align-middle">
       <button class="slds-button slds-button_icon slds-button slds-button_icon" aria-describedby="help" title="Help">
         <svg class="slds-button__icon" aria-hidden="true">
-          <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#info" />
+          <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#info" />
         </svg>
         <span class="slds-assistive-text">Help</span>
       </button>
