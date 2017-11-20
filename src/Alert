@@ -2,13 +2,13 @@
   <span class="slds-assistive-text">info</span>
   <span class="slds-icon_container slds-icon-utility-user slds-m-right_x-small" title="Description of icon when needed">
     <svg class="slds-icon slds-icon_x-small" aria-hidden="true">
-      <use href="/_slds/icons/v7.31.0/icons/utility-sprite/svg/symbols.svg#user" />
+      <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#user" />
     </svg>
   </span>
   <h2>Logged in as John Smith (johnsmith@acme.com). <a href="javascript:void(0);">Log out</a></h2>
   <button class="slds-button slds-button_icon slds-notify__close slds-button_icon-inverse" title="Close">
     <svg class="slds-button__icon" aria-hidden="true">
-      <use href="/_slds/icons/v7.31.0/icons/utility-sprite/svg/symbols.svg#close" />
+      <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#close" />
     </svg>
     <span class="slds-assistive-text">Close</span>
   </button>
