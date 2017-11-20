@@ -7,7 +7,7 @@
           <input type="text" class="slds-input slds-combobox__input" id="combobox-unique-id" aria-controls="listbox-unique-id" autocomplete="off" role="textbox" placeholder=" " />
           <span class="slds-icon_container slds-icon-utility-clock slds-input__icon slds-input__icon_right" title="Description of icon when needed">
             <svg class="slds-icon slds-icon slds-icon_x-small slds-icon-text-default" aria-hidden="true">
-              <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#clock" />
+              <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#clock" />
             </svg>
             <span class="slds-assistive-text">Description of icon</span>
           </span>
@@ -18,7 +18,7 @@
               <span id="listbox-option-unique-id-01" class="slds-media slds-listbox__option slds-listbox__option_plain slds-media_small slds-media_center" role="option">
                 <span class="slds-media__figure">
                   <svg class="slds-icon slds-icon_x-small slds-listbox__icon-selected" aria-hidden="true">
-                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#check" />
+                    <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#check" />
                   </svg>
                 </span>
                 <span class="slds-media__body">
@@ -30,7 +30,7 @@
               <span id="listbox-option-unique-id-02" class="slds-media slds-listbox__option slds-listbox__option_plain slds-media_small slds-media_center" role="option">
                 <span class="slds-media__figure">
                   <svg class="slds-icon slds-icon_x-small slds-listbox__icon-selected" aria-hidden="true">
-                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#check" />
+                    <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#check" />
                   </svg>
                 </span>
                 <span class="slds-media__body">
@@ -42,7 +42,7 @@
               <span id="listbox-option-unique-id-03" class="slds-media slds-listbox__option slds-listbox__option_plain slds-media_small slds-media_center" role="option">
                 <span class="slds-media__figure">
                   <svg class="slds-icon slds-icon_x-small slds-listbox__icon-selected" aria-hidden="true">
-                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#check" />
+                    <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#check" />
                   </svg>
                 </span>
                 <span class="slds-media__body">
@@ -54,7 +54,7 @@
               <span id="listbox-option-unique-id-04" class="slds-media slds-listbox__option slds-listbox__option_plain slds-media_small slds-media_center" role="option">
                 <span class="slds-media__figure">
                   <svg class="slds-icon slds-icon_x-small slds-listbox__icon-selected" aria-hidden="true">
-                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#check" />
+                    <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#check" />
                   </svg>
                 </span>
                 <span class="slds-media__body">
@@ -66,7 +66,7 @@
               <span id="listbox-option-unique-id-05" class="slds-media slds-listbox__option slds-listbox__option_plain slds-media_small slds-media_center" role="option">
                 <span class="slds-media__figure">
                   <svg class="slds-icon slds-icon_x-small slds-listbox__icon-selected" aria-hidden="true">
-                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#check" />
+                    <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#check" />
                   </svg>
                 </span>
                 <span class="slds-media__body">
@@ -78,7 +78,7 @@
               <span id="listbox-option-unique-id-06" class="slds-media slds-listbox__option slds-listbox__option_plain slds-media_small slds-media_center" role="option">
                 <span class="slds-media__figure">
                   <svg class="slds-icon slds-icon_x-small slds-listbox__icon-selected" aria-hidden="true">
-                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#check" />
+                    <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#check" />
                   </svg>
                 </span>
                 <span class="slds-media__body">
@@ -90,7 +90,7 @@
               <span id="listbox-option-unique-id-07" class="slds-media slds-listbox__option slds-listbox__option_plain slds-media_small slds-media_center" role="option">
                 <span class="slds-media__figure">
                   <svg class="slds-icon slds-icon_x-small slds-listbox__icon-selected" aria-hidden="true">
-                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#check" />
+                    <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#check" />
                   </svg>
                 </span>
                 <span class="slds-media__body">
@@ -102,7 +102,7 @@
               <span id="listbox-option-unique-id-08" class="slds-media slds-listbox__option slds-listbox__option_plain slds-media_small slds-media_center" role="option">
                 <span class="slds-media__figure">
                   <svg class="slds-icon slds-icon_x-small slds-listbox__icon-selected" aria-hidden="true">
-                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#check" />
+                    <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#check" />
                   </svg>
                 </span>
                 <span class="slds-media__body">
@@ -114,7 +114,7 @@
               <span id="listbox-option-unique-id-09" class="slds-media slds-listbox__option slds-listbox__option_plain slds-media_small slds-media_center" role="option">
                 <span class="slds-media__figure">
                   <svg class="slds-icon slds-icon_x-small slds-listbox__icon-selected" aria-hidden="true">
-                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#check" />
+                    <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#check" />
                   </svg>
                 </span>
                 <span class="slds-media__body">
@@ -126,7 +126,7 @@
               <span id="listbox-option-unique-id-10" class="slds-media slds-listbox__option slds-listbox__option_plain slds-media_small slds-media_center" role="option">
                 <span class="slds-media__figure">
                   <svg class="slds-icon slds-icon_x-small slds-listbox__icon-selected" aria-hidden="true">
-                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#check" />
+                    <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#check" />
                   </svg>
                 </span>
                 <span class="slds-media__body">
@@ -138,7 +138,7 @@
               <span id="listbox-option-unique-id-11" class="slds-media slds-listbox__option slds-listbox__option_plain slds-media_small slds-media_center" role="option">
                 <span class="slds-media__figure">
                   <svg class="slds-icon slds-icon_x-small slds-listbox__icon-selected" aria-hidden="true">
-                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#check" />
+                    <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#check" />
                   </svg>
                 </span>
                 <span class="slds-media__body">
@@ -150,7 +150,7 @@
               <span id="listbox-option-unique-id-12" class="slds-media slds-listbox__option slds-listbox__option_plain slds-media_small slds-media_center" role="option">
                 <span class="slds-media__figure">
                   <svg class="slds-icon slds-icon_x-small slds-listbox__icon-selected" aria-hidden="true">
-                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#check" />
+                    <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#check" />
                   </svg>
                 </span>
                 <span class="slds-media__body">

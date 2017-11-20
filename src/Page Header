@@ -3,7 +3,7 @@
     <div class="slds-media__figure">
       <span class="slds-icon_container slds-icon-standard-opportunity" title="Description of icon when needed">
         <svg class="slds-icon slds-page-header__icon" aria-hidden="true">
-          <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/standard-sprite/svg/symbols.svg#opportunity" />
+          <use href="/_slds/icons/v7.31.0/standard-sprite/svg/symbols.svg#opportunity" />
         </svg>
       </span>
     </div>

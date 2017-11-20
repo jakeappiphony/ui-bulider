@@ -4,7 +4,7 @@
     <li class="slds-utility-bar__item">
       <button class="slds-button slds-utility-bar__action" aria-pressed="false">
         <svg class="slds-button__icon slds-button__icon_left" aria-hidden="true">
-          <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#call" />
+          <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#call" />
         </svg>
         <span class="slds-utility-bar__text">Call</span>
       </button>
@@ -12,7 +12,7 @@
     <li class="slds-utility-bar__item">
       <button class="slds-button slds-utility-bar__action" aria-pressed="false">
         <svg class="slds-button__icon slds-button__icon_left" aria-hidden="true">
-          <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#clock" />
+          <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#clock" />
         </svg>
         <span class="slds-utility-bar__text">History</span>
       </button>
@@ -20,7 +20,7 @@
     <li class="slds-utility-bar__item">
       <button class="slds-button slds-utility-bar__action" aria-pressed="false">
         <svg class="slds-button__icon slds-button__icon_left" aria-hidden="true">
-          <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#note" />
+          <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#note" />
         </svg>
         <span class="slds-utility-bar__text">Notes</span>
       </button>
@@ -28,7 +28,7 @@
     <li class="slds-utility-bar__item">
       <button class="slds-button slds-utility-bar__action" aria-pressed="false">
         <svg class="slds-button__icon slds-button__icon_left" aria-hidden="true">
-          <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#omni_channel" />
+          <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#omni_channel" />
         </svg>
         <span class="slds-utility-bar__text">
           <span class="slds-m-bottom_xxx-small">Online</span>
@@ -43,7 +43,7 @@
         <div class="slds-media__figure slds-m-right_x-small">
           <span class="slds-icon_container">
             <svg class="slds-icon slds-icon_small slds-icon-text-default" aria-hidden="true">
-              <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/standard-sprite/svg/symbols.svg#call" />
+              <use href="/_slds/icons/v7.31.0/standard-sprite/svg/symbols.svg#call" />
             </svg>
           </span>
         </div>
@@ -54,7 +54,7 @@
       <div class="slds-col_bump-left slds-shrink-none">
         <button class="slds-button slds-button_icon slds-button_icon" title="Close Panel">
           <svg class="slds-button__icon" aria-hidden="true">
-            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#minimize_window" />
+            <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#minimize_window" />
           </svg>
           <span class="slds-assistive-text">Close Panel</span>
         </button>

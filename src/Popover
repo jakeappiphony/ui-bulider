@@ -1,7 +1,7 @@
 <section class="slds-popover slds-nubbin_left" role="dialog" aria-label="Dialog Title" aria-describedby="dialog-body-id-8">
   <button class="slds-button slds-button_icon slds-button_icon-small slds-float_right slds-popover__close slds-button_icon" title="Close dialog">
     <svg class="slds-button__icon" aria-hidden="true">
-      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#close" />
+      <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#close" />
     </svg>
     <span class="slds-assistive-text">Close dialog</span>
   </button>

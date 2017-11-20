@@ -7,7 +7,7 @@
       <li>
         <button class="slds-button slds-button_icon slds-button_icon-container" title="Add User">
           <svg class="slds-button__icon" aria-hidden="true">
-            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#adduser" />
+            <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#adduser" />
           </svg>
           <span class="slds-assistive-text">Add User</span>
         </button>
@@ -15,7 +15,7 @@
       <li>
         <button class="slds-button slds-button_icon slds-button_icon-container" title="Attach a file">
           <svg class="slds-button__icon" aria-hidden="true">
-            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#attach" />
+            <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#attach" />
           </svg>
           <span class="slds-assistive-text">Attach a file</span>
         </button>

@@ -7,7 +7,7 @@
           <input type="text" class="slds-input slds-combobox__input" id="combobox-unique-id" aria-autocomplete="list" aria-controls="listbox-unique-id" autocomplete="off" role="textbox" placeholder="Search Salesforce" />
           <span class="slds-icon_container slds-icon-utility-search slds-input__icon slds-input__icon_right">
             <svg class="slds-icon slds-icon slds-icon_x-small slds-icon-text-default" aria-hidden="true">
-              <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#search" />
+              <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#search" />
             </svg>
           </span>
         </div>
@@ -18,7 +18,7 @@
                 <span class="slds-media__figure">
                   <span class="slds-icon_container slds-icon-standard-account" title="Description of icon when needed">
                     <svg class="slds-icon slds-icon_small" aria-hidden="true">
-                      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/standard-sprite/svg/symbols.svg#account" />
+                      <use href="/_slds/icons/v7.31.0/standard-sprite/svg/symbols.svg#account" />
                     </svg>
                     <span class="slds-assistive-text">Description of icon</span>
                   </span>
@@ -34,7 +34,7 @@
                 <span class="slds-media__figure">
                   <span class="slds-icon_container slds-icon-standard-account" title="Description of icon when needed">
                     <svg class="slds-icon slds-icon_small" aria-hidden="true">
-                      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/standard-sprite/svg/symbols.svg#account" />
+                      <use href="/_slds/icons/v7.31.0/standard-sprite/svg/symbols.svg#account" />
                     </svg>
                     <span class="slds-assistive-text">Description of icon</span>
                   </span>

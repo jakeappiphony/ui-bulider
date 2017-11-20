@@ -8,7 +8,7 @@
               <a aria-selected="true" class="slds-path__link" href="javascript:void(0);" id="path-1" role="option" tabindex="0">
                 <span class="slds-path__stage">
                   <svg class="slds-icon slds-icon_x-small" aria-hidden="true">
-                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#check" />
+                    <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#check" />
                   </svg>
                   <span class="slds-assistive-text">Stage Complete</span>
                 </span>
@@ -19,7 +19,7 @@
               <a aria-selected="false" class="slds-path__link" href="javascript:void(0);" id="path-2" role="option" tabindex="-1">
                 <span class="slds-path__stage">
                   <svg class="slds-icon slds-icon_x-small" aria-hidden="true">
-                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#check" />
+                    <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#check" />
                   </svg>
                   <span class="slds-assistive-text">Stage Complete</span>
                 </span>
@@ -30,7 +30,7 @@
               <a aria-selected="false" class="slds-path__link" href="javascript:void(0);" id="path-3" role="option" tabindex="-1">
                 <span class="slds-path__stage">
                   <svg class="slds-icon slds-icon_x-small" aria-hidden="true">
-                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#check" />
+                    <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#check" />
                   </svg>
                   <span class="slds-assistive-text">Current Stage:</span>
                 </span>
@@ -41,7 +41,7 @@
               <a aria-selected="false" class="slds-path__link" href="javascript:void(0);" id="path-4" role="option" tabindex="-1">
                 <span class="slds-path__stage">
                   <svg class="slds-icon slds-icon_x-small" aria-hidden="true">
-                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#check" />
+                    <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#check" />
                   </svg>
                 </span>
                 <span class="slds-path__title">Nurturing</span>
@@ -51,7 +51,7 @@
               <a aria-selected="false" class="slds-path__link" href="javascript:void(0);" id="path-5" role="option" tabindex="-1">
                 <span class="slds-path__stage">
                   <svg class="slds-icon slds-icon_x-small" aria-hidden="true">
-                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#check" />
+                    <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#check" />
                   </svg>
                 </span>
                 <span class="slds-path__title">Closed</span>
@@ -61,13 +61,13 @@
           <div class="slds-path__scroll-controls">
             <button class="slds-button slds-button_icon slds-button_icon-border-filled" tabindex="-1" title="Scroll left">
               <svg class="slds-button__icon" aria-hidden="true">
-                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#left" />
+                <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#left" />
               </svg>
               <span class="slds-assistive-text">Scroll left</span>
             </button>
             <button class="slds-button slds-button_icon slds-button_icon-border-filled" tabindex="-1" title="Scroll right">
               <svg class="slds-button__icon" aria-hidden="true">
-                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#right" />
+                <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#right" />
               </svg>
               <span class="slds-assistive-text">Scroll right</span>
             </button>
@@ -79,7 +79,7 @@
       <span class="slds-path__stage-name">Stage: Unqualified</span>
       <button class="slds-button slds-button_brand slds-path__mark-complete">
         <svg class="slds-button__icon slds-button__icon_left" aria-hidden="true">
-          <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#check" />
+          <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#check" />
         </svg>Mark Status as Complete</button>
     </div>
   </div>

@@ -4,7 +4,7 @@
     <input type="text" id="date-input-id" placeholder=" " class="slds-input" />
     <button class="slds-button slds-button_icon slds-input__icon slds-input__icon_right" title="Select a date">
       <svg class="slds-button__icon" aria-hidden="true">
-        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#event" />
+        <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#event" />
       </svg>
       <span class="slds-assistive-text">Select a date</span>
     </button>
@@ -15,7 +15,7 @@
         <div class="slds-align-middle">
           <button class="slds-button slds-button_icon slds-button_icon-container" title="Previous Month">
             <svg class="slds-button__icon" aria-hidden="true">
-              <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#left" />
+              <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#left" />
             </svg>
             <span class="slds-assistive-text">Previous Month</span>
           </button>
@@ -24,7 +24,7 @@
         <div class="slds-align-middle">
           <button class="slds-button slds-button_icon slds-button_icon-container" title="Next Month">
             <svg class="slds-button__icon" aria-hidden="true">
-              <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#right" />
+              <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#right" />
             </svg>
             <span class="slds-assistive-text">Next Month</span>
           </button>

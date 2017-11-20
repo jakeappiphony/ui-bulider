@@ -14,7 +14,7 @@
               <button class="slds-button slds-button_icon slds-button_icon-border slds-button_icon-x-small"
                 aria-haspopup="true" title="More Options">
                 <svg class="slds-button__icon" aria-hidden="true">
-                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#down" />
+                  <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#down" />
                 </svg>
                 <span class="slds-assistive-text">More Options</span>
               </button>
@@ -30,19 +30,19 @@
             <li class="slds-col slds-item slds-m-right_medium">
               <button title="Like this item" class="slds-button_reset slds-post__footer-action" aria-pressed="false">
                 <svg class="slds-icon slds-icon-text-default slds-icon_x-small slds-align-middle" aria-hidden="true">
-                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#like" />
+                  <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#like" />
                 </svg>Like</button>
             </li>
             <li class="slds-col slds-item slds-m-right_medium">
               <button title="Comment on this item" class="slds-button_reset slds-post__footer-action">
                 <svg class="slds-icon slds-icon-text-default slds-icon_x-small slds-align-middle" aria-hidden="true">
-                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#share_post" />
+                  <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#share_post" />
                 </svg> Comment</button>
             </li>
             <li class="slds-col slds-item slds-m-right_medium">
               <button title="Share this item" class="slds-button_reset slds-post__footer-action">
                 <svg class="slds-icon slds-icon-text-default slds-icon_x-small slds-align-middle" aria-hidden="true">
-                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#share" />
+                  <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#share" />
                 </svg> Share</button>
             </li>
           </ul>
@@ -71,7 +71,7 @@
                     <p class="slds-truncate" title="Jenna Davis"><a href="javascript:void(0);">Jenna Davis</a></p>
                     <button class="slds-button slds-button_icon slds-button_icon-border slds-button_icon-x-small" aria-haspopup="true" title="More Options">
                       <svg class="slds-button__icon" aria-hidden="true">
-                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#down" />
+                        <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#down" />
                       </svg>
                       <span class="slds-assistive-text">More Options</span>
                     </button>
@@ -106,7 +106,7 @@
               <button class="slds-button slds-button_icon slds-button_icon-border slds-button_icon-x-small"
                 aria-haspopup="true" title="More Options">
                 <svg class="slds-button__icon" aria-hidden="true">
-                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#down" />
+                  <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#down" />
                 </svg>
                 <span class="slds-assistive-text">More Options</span>
               </button>
@@ -122,19 +122,19 @@
             <li class="slds-col slds-item slds-m-right_medium">
               <button title="Like this item" class="slds-button_reset slds-post__footer-action" aria-pressed="false">
                 <svg class="slds-icon slds-icon-text-default slds-icon_x-small slds-align-middle" aria-hidden="true">
-                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#like" />
+                  <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#like" />
                 </svg>Like</button>
             </li>
             <li class="slds-col slds-item slds-m-right_medium">
               <button title="Comment on this item" class="slds-button_reset slds-post__footer-action">
                 <svg class="slds-icon slds-icon-text-default slds-icon_x-small slds-align-middle" aria-hidden="true">
-                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#share_post" />
+                  <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#share_post" />
                 </svg> Comment</button>
             </li>
             <li class="slds-col slds-item slds-m-right_medium">
               <button title="Share this item" class="slds-button_reset slds-post__footer-action">
                 <svg class="slds-icon slds-icon-text-default slds-icon_x-small slds-align-middle" aria-hidden="true">
-                  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#share" />
+                  <use href="/_slds/icons/v7.31.0/utility-sprite/svg/symbols.svg#share" />
                 </svg> Share</button>
             </li>
           </ul>
