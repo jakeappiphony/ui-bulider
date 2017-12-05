@@ -1,5 +1,5 @@
 {
-  markup: "<ul class="slds-accordion">
+  "markup": "<ul class="slds-accordion">
     <li class="slds-accordion__list-item">
       <section class="slds-accordion__section slds-is-open">
         <div class="slds-accordion__summary">
@@ -64,8 +64,8 @@
       </section>
     </li>
   </ul>",
-  nestable: false,
-  id: 0,
-  status: "palette",
-  title: "Accordion"
+  "nestable": false,
+  "id": 0,
+  "status": "palette",
+  "title": "Accordion"
 }
