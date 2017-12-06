@@ -1,6 +1,6 @@
 {
   "markup": 
-  \<ul class=\"slds-accordion\">
+  `<ul class=\"slds-accordion\">
       <li class=\"slds-accordion__list-item\">
         <section class=\"slds-accordion__section slds-is-open\">
           <div class=\"slds-accordion__summary\">
@@ -64,7 +64,7 @@
           <div aria-hidden=\"true\" class=\"slds-accordion__content\" id=\"accordion-details-03\">Accordion details - C</div>
         </section>
       </li>
-    </ul>\,
+    </ul>`,
   "nestable": false,
   "id": 0,
   "status": "palette",
